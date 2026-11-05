@@ -119,3 +119,4 @@ report/index.html
 
 # Local testing handoff documents are not versioned.
 /.agents/agent-docs/designs/testing/
+.jiuwenswarm
